@@ -56,9 +56,7 @@ The goal of this presentation is to secure executive approval for the proposed c
 
 ## 📂 Files
 
-- `CSIA485_Project3_Board_Presentation.pdf` – Final slide deck with speaker notes  
-- `references-slide.pdf` – APA-formatted citations  
-- `presentation-outline.md` – Optional slide-by-slide summary outline (for collaborators or viewers)
+- [Presentation.pdf](https://github.com/edisonm86/Summary-Presentation/blob/cdd6f1be8d82421c91769c088a8e74928d612bfc/Presentation.pdf) – Final slide deck with speaker notes  
 
 ---
 
