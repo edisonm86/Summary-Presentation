@@ -56,7 +56,7 @@ The goal of this presentation is to secure executive approval for the proposed c
 
 ## 📂 Files
 
-- [Presentation.pdf](https://github.com/edisonm86/Summary-Presentation/blob/cdd6f1be8d82421c91769c088a8e74928d612bfc/Presentation.pdf) – Final slide deck with speaker notes  
+- [Presentation.pdf](https://github.com/edisonm86/Summary-Presentation/blob/4223ccdb6f70fca793d8dc4d5e9ab8224f18c436/Presentation.pdf) – Final slide deck with speaker notes  
 
 ---
 
